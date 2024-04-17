@@ -1,6 +1,6 @@
 # task_menager
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple Task Menager system using, Vue.js 3, TypeScrpit and the library Quasar to build the components
 
 ## Recommended IDE Setup
 
@@ -22,7 +22,7 @@ npm install quasar
 npm install @quasar/extras
 npm install _D sass
 npm i vue-material-design-icons
-npm install material-icons   
+npm install material-icons
 ```
 
 ### Compile and Hot-Reload for Development
